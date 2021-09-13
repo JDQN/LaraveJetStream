@@ -1,6 +1,5 @@
-<h1>CREACIÓN CRUD CON LARAVEL JETSTREAM</h1>
-<h2>Proyecto CRUD  creandon con Laravel 8.X y PHP 8.X y utilizando la plantilla AdminLTE3 y JetStream.</h2>
-
+<h1 align="center">CREACIÓN CRUD CON LARAVEL JETSTREAM</h1>
+<p align="center">Proyecto CRUD  creandon con Laravel 8.X y PHP 8.X y utilizando la plantilla AdminLTE3 y JetStream.</p>
 
 
 
